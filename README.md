@@ -38,8 +38,8 @@ A beautiful, fully responsive Flutter application that allows users to mark, sav
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Favorite_places_app.git
-   cd Favorite_places_app
+   [git clone https://github.com/your-username/Favorite_places_app.git
+   cd Favorite_places_app](https://github.com/PrIyANshU-ai-dot/Favorite_places_app.git)
 2. **Install Flutter Dependencies**
      flutter pub get
 3. **Run the App**
